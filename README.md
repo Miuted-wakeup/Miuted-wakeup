@@ -22,7 +22,13 @@
       <details>
         <summary><b>C:\Users\Gustavo&gt; dir proyectos\</b></summary>
         <br/>
-        <img src="./assets/output-proyectos.svg" width="460" alt="Proyectos" />
+        <div align="center">
+          <a href="https://portafolio-tan-five-55.vercel.app/" target="_blank">
+            <img src="./assets/gato.png" width="220" alt="Gato Portafolio" />
+            <br/>
+            <sub>Visita mi portafolio (¡Haz clic en el gato!) <img src="./assets/blanca.png" width="24" valign="middle" alt="Click" /></sub>
+          </a>
+        </div>
         <br/><br/>
       </details>
       <details>
@@ -38,17 +44,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <br/>
-  <a href="https://portafolio-tan-five-55.vercel.app/" target="_blank">
-    <img src="./assets/gato.png" width="90" alt="Gato Portafolio" />
-    <br/>
-    <sub>Visita mi portafolio (¡Haz clic en el gato!) <img src="./assets/blanca.png" width="24" valign="middle" alt="Click" /></sub>
-  </a>
-  <br/><br/>
-</div>
-
 ---
 
 ### Tech Stack
