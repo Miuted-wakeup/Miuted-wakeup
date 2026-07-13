@@ -4,23 +4,23 @@
   <br/><br/>
   
   <!-- Texto animado que va cambiando -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=22&pause=1000&color=FF66CC&center=true&vCenter=true&width=600&lines=Welcome+to+the+Wired...;%3E+_system_booting...;Full-Stack+Developer;Y2K+%26+Retro-Futurism+Vibes;Cali%2C+Colombia+%F0%9F%93%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=22&pause=1000&color=FF66CC&center=true&vCenter=true&width=600&lines=Welcome+to+the+Wired...;%3E+_system_booting...;Full-Stack+Developer;Y2K+%26+Retro-Futurism+Vibes;Cali%2C+Colombia" alt="Typing SVG" />
   <br/>
   <i>"Amo Japón, espero ir algún día 🌸"</i>
 </div>
 
 ---
 
-### 👤 Sobre mí
-- 🔭 Actualmente trabajando en **experiencias web interactivas 3D** y sistemas complejos.
-- 🌱 Aprendiendo y mejorando en **WebGL y arquitecturas de alto rendimiento**.
-- 💻 Creando la web del futuro inspirada en la **estética del pasado (Y2K / Cyberpunk)**.
-- 💬 Pregúntame sobre **Anime, Pixel Art y Desarrollo Web**.
-- 📫 Conoce mi trabajo en: **[Mi Portafolio Web](https://portafolio-tan-five-55.vercel.app/)**
+### Sobre mí
+- Actualmente trabajando en **experiencias web interactivas 3D** y sistemas complejos.
+- Aprendiendo y mejorando en **WebGL y arquitecturas de alto rendimiento**.
+- Creando la web del futuro inspirada en la **estética del pasado (Y2K / Cyberpunk)**.
+- Pregúntame sobre **Anime, Pixel Art y Desarrollo Web**.
+- Conoce mi trabajo en: **[Mi Portafolio Web](https://portafolio-tan-five-55.vercel.app/)**
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 <div align="center">
   <br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 Mis Estadísticas
+### Mis Estadísticas
 <div align="center">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Miuted-wakeup&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="GitHub Stats" />
