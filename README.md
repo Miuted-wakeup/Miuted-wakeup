@@ -40,7 +40,9 @@
     </td>
     <td width="320" valign="top" align="right">
       <br/><br/>
-      <img src="./assets/descarga.png" width="300" alt="Character" />
+      <a href="https://ueb-y2k.netlify.app" target="_blank">
+        <img src="./assets/descarga.png" width="300" alt="Character" />
+      </a>
     </td>
   </tr>
 </table>
