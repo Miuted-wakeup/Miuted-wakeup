@@ -1,52 +1,77 @@
 <div align="center">
-  <!-- Reemplaza este enlace con un GIF o Banner pixel art Y2K que te guste -->
-  <img src="https://i.pinimg.com/originals/99/eb/39/99eb39580436d460bbd1a65b06bd41d5.gif" width="100%" alt="Y2K Banner" />
+  <!-- Banner estilo Anime Retro / Y2K -->
+  <img src="https://i.pinimg.com/originals/11/04/e9/1104e9c7048705f14eaf65392d4f29df.gif" width="100%" alt="Retro Anime Banner" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=24&pause=1000&color=9C88FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;WebGL+%26+Node.js+Enthusiast;Y2K+%26+Retro-Futurism+Vibes;Cali%2C+Colombia+%F0%9F%93%8D" alt="Typing SVG" />
+  <!-- Texto animado como si fuera un inicio de sistema (Terminal Retro) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=22&pause=1000&color=FF66CC&center=true&vCenter=true&width=600&lines=Welcome+to+the+Wired...;%3E+_system_booting...;Y2K+%26+Retro-Futurism+Vibes;Cali%2C+Colombia+%F0%9F%93%8D" alt="Typing SVG" />
 </div>
 
----
-
-### 👾 [ SYSTEM_INFO.TXT ]
-```text
-> VIBE: Estética Y2K, WebGL, IA y arte ASCII.
-> CURRENT_MISSION: Creando experiencias web 3D e interfaces nostálgicas.
-> LORE: "Amo Japón, espero ir algún día 🌸"
-> PORTFOLIO: https://portafolio-tan-five-55.vercel.app
-```
-
----
-
-### 💾 [ TECH_STACK.EXE ]
+<br/>
 
 <div align="center">
+  <img src="https://media.tenor.com/K1Lg0J5T2kIAAAAi/pixel-heart.gif" width="60" />
+</div>
+
+<br/>
+
+### ╭━━━━━━━━━━━━━━━ ✩ ━━━━━━━━━━━━━━━╮
+### ✦ ＰＲＯＦＩＬＥ．ＥＸＥ ✦
+### ╰━━━━━━━━━━━━━━━ ✩ ━━━━━━━━━━━━━━━╯
+
+<!-- Usamos una tabla HTML para simular un pop-up o ventana antigua con imagen a la izquierda y texto a la derecha -->
+<table align="center" style="border-collapse: collapse; border: 1px solid #444;">
+  <tr>
+    <td width="300" align="center" style="padding: 10px; border-right: 1px dashed #444;">
+      <!-- GIF Decorativo de anime retro / Evangelion / Lain vibes -->
+      <img src="https://i.pinimg.com/originals/0f/c0/c5/0fc0c50ceb1c55bc6f827aef52924a41.gif" width="100%" style="border-radius: 8px;" />
+    </td>
+    <td width="500" style="padding: 20px;">
+      <p><b>[ LOADING DATA... ] 💿</b></p>
+      <br/>
+      <p><b>> VIBE:</b> Estética Y2K, WebGL, Cyberpunk y Pixel Art.</p>
+      <p><b>> CURRENT_MISSION:</b> Creando experiencias web 3D e interfaces nostálgicas.</p>
+      <p><b>> LORE:</b> "Amo Japón, espero ir algún día 🌸"</p>
+      <p><b>> PORTFOLIO:</b> <a href="https://portafolio-tan-five-55.vercel.app">Mi sitio web oficial</a></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### ╭━━━━━━━━━━━━━━━ ✩ ━━━━━━━━━━━━━━━╮
+### ✦ ＳＫＩＬＬＳ．ＤＡＴ ✦
+### ╰━━━━━━━━━━━━━━━ ✩ ━━━━━━━━━━━━━━━╯
+
+<div align="center">
+  <!-- Botones de colores estilo Retro/Dark -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
----
+<br/>
 
-### 📊 [ USER_STATS.DAT ]
+### ╭━━━━━━━━━━━━━━━ ✩ ━━━━━━━━━━━━━━━╮
+### ✦ ＳＴＡＴＳ．ＳＹＳ ✦
+### ╰━━━━━━━━━━━━━━━ ✩ ━━━━━━━━━━━━━━━╯
 
 <div align="center">
-  <!-- Tarjetas de estadísticas estilo oscuro con bordes cuadrados muy retro -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Miuted-wakeup&show_icons=true&theme=tokyonight&hide_border=false&border_radius=0&bg_color=0D1117" alt="GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miuted-wakeup&theme=tokyonight&hide_border=false&border_radius=0&background=0D1117" alt="GitHub Streak" />
+  <!-- Tema 'synthwave' (Neon/Oscuro Y2K) y quitamos la primera tarjeta que estaba dando error -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miuted-wakeup&theme=synthwave&hide_border=false&border_radius=0&background=000000" alt="GitHub Streak" />
 </div>
 
----
+<br/>
 
 <div align="center">
-  <a href="https://x.com/muted_wakeup">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter"/>
-  </a>
+  <img src="https://media.tenor.com/2YcW8kXm5R0AAAAi/pixel-art.gif" width="120" />
 </div>
