@@ -1,12 +1,9 @@
-<img align="right" src="./assets/descarga.png" width="400" alt="Character" />
-
 <div align="left">
-  <!-- Texto animado personalizado que va cambiando (con ancho limitado para que no salte de línea) -->
-  <img src="./assets/typing.svg" width="280" alt="Typing SVG" />
+  <!-- Texto animado personalizado que va cambiando (un poco más grande ahora que tiene espacio) -->
+  <img src="./assets/typing.svg" width="350" alt="Typing SVG" />
 </div>
 
-<br clear="all" />
-
+<br/>
 
 ---
 
@@ -15,8 +12,11 @@
 (c) Microsoft Corporation. Todos los derechos reservados.
 </pre>
 
+<!-- Personaje flotado a la derecha de la terminal -->
+<img align="right" src="./assets/descarga.png" width="380" alt="Character" style="margin-left: 20px;" />
+
 <details>
-  <summary><b>C:\Users\Gustavo&gt; cat sobre-mi.txt</b></summary>
+  <summary><b>C:\Users\Gustavo&gt; cat sobre-mi.txt</b> <img src="./assets/R.png" width="22" valign="middle" alt="Click" /></summary>
   <br/>
   <img src="./assets/output-sobre-mi.svg" alt="Sobre mi" />
   <br/><br/>
@@ -35,6 +35,8 @@
   <img src="./assets/output-contacto.svg" alt="Contacto" />
   <br/><br/>
 </details>
+
+<br clear="all" />
 
 ### Tech Stack
 <div align="center">
