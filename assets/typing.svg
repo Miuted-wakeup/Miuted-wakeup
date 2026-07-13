@@ -45,23 +45,23 @@
         opacity: 0;
       }
 
-      /* Animaciones de las líneas (opacidad) - Loop de 20 segundos */
-      .line-1 { animation: line1-fade 20s infinite; }
-      .line-1 .dot-1 { animation: dot1-anim 20s infinite; }
-      .line-1 .dot-2 { animation: dot2-anim 20s infinite; }
-      .line-1 .dot-3 { animation: dot3-anim 20s infinite; }
+      /* Animaciones de las líneas (opacidad) - Loop de 10 segundos */
+      .line-1 { animation: line1-fade 10s infinite; }
+      .line-1 .dot-1 { animation: dot1-anim 10s infinite; }
+      .line-1 .dot-2 { animation: dot2-anim 10s infinite; }
+      .line-1 .dot-3 { animation: dot3-anim 10s infinite; }
 
-      .line-2 { animation: line2-fade 20s infinite; }
-      .line-3 { animation: line3-fade 20s infinite; }
-      .line-4 { animation: line4-fade 20s infinite; }
-      .line-5 { animation: line5-fade 20s infinite; }
+      .line-2 { animation: line2-fade 10s infinite; }
+      .line-3 { animation: line3-fade 10s infinite; }
+      .line-4 { animation: line4-fade 10s infinite; }
+      .line-5 { animation: line5-fade 10s infinite; }
 
-      /* Animaciones de tipeado manual - Loop de 20 segundos */
-      .t1 { animation: type1-anim 20s infinite; }
-      .t2 { animation: type2-anim 20s infinite; }
-      .t3 { animation: type3-anim 20s infinite; }
-      .t4 { animation: type4-anim 20s infinite; }
-      .t5 { animation: type5-anim 20s infinite; }
+      /* Animaciones de tipeado manual - Loop de 10 segundos */
+      .t1 { animation: type1-anim 10s infinite; }
+      .t2 { animation: type2-anim 10s infinite; }
+      .t3 { animation: type3-anim 10s infinite; }
+      .t4 { animation: type4-anim 10s infinite; }
+      .t5 { animation: type5-anim 10s infinite; }
 
       /* Cursores intermitentes */
       @keyframes blink {
