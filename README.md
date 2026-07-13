@@ -9,6 +9,14 @@
   <i>"Amo Japón, espero ir algún día 🌸"</i>
 </div>
 
+### Connect with me:
+<p align="left">
+  <a href="https://instagram.com/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/white" width="30" alt="Instagram" /></a> &nbsp;
+  <a href="https://github.com/Miuted-wakeup" target="_blank"><img src="https://cdn.simpleicons.org/github/white" width="30" alt="GitHub" /></a> &nbsp;
+  <a href="https://stackoverflow.com/" target="_blank"><img src="https://cdn.simpleicons.org/stackoverflow/white" width="30" alt="StackOverflow" /></a> &nbsp;
+  <a href="https://linkedin.com/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/white" width="30" alt="LinkedIn" /></a>
+</p>
+
 ---
 
 ### Sobre mí
