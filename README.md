@@ -50,7 +50,7 @@
 
 ### Contáctame:
 <p>
-  <a href="https://ko-fi.com/muteada" target="_blank"><img align="right" src="./assets/kofi-support.svg" width="355" alt="Ko-fi" /></a>
+  <a href="https://ko-fi.com/muteada" target="_blank"><img align="right" src="./assets/kofi-support-cafe.svg" width="355" alt="Ko-fi" /></a>
   <a href="mailto:gustavodev.teams@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/white" width="30" alt="Email" /></a> &nbsp;
   <a href="https://www.linkedin.com/in/gusdeveloper" target="_blank"><img src="./assets/linkedin.svg" width="30" alt="LinkedIn" /></a> &nbsp;
   <a href="https://x.com/muted_wakeup" target="_blank"><img src="https://cdn.simpleicons.org/x/white" width="30" alt="X (Twitter)" /></a> &nbsp;
