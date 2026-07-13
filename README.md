@@ -14,11 +14,11 @@
 (c) Microsoft Corporation. Todos los derechos reservados.
       </pre>
       <details>
-        <summary><b>C:\Users\Gustavo&gt; cat sobre-mi.txt</b> <img src="./assets/blanca.png" width="42" valign="middle" alt="Click" /></summary><img src="./assets/output-sobre-mi.svg" width="460" alt="Sobre mi" /></details>
+        <summary><b>C:\Users\Gustavo&gt; cat sobre-mi.txt</b> <img src="./assets/blanca.png" width="42" valign="middle" alt="Click" /></summary><img src="./assets/output-sobre-mi.svg" width="460" alt="Sobre mi" style="display:block; margin:0; padding:0;" /></details>
       <details>
-        <summary><b>C:\Users\Gustavo&gt; dir proyectos\</b></summary><a href="https://portafolio-tan-five-55.vercel.app/" target="_blank"><img src="./assets/gato.png" width="180" alt="Gato Portafolio" /></a><br/><sub>Visita mi portafolio (¡Haz clic en el gato!) <img src="./assets/blanca.png" width="24" valign="middle" alt="Click" /></sub></details>
+        <summary><b>C:\Users\Gustavo&gt; dir proyectos\</b></summary><a href="https://portafolio-tan-five-55.vercel.app/" target="_blank"><img src="./assets/gato.png" width="180" alt="Gato Portafolio" style="display:block; margin:0; padding:0;" /></a><sub>Visita mi portafolio (¡Haz clic en el gato!) <img src="./assets/blanca.png" width="24" valign="middle" alt="Click" /></sub></details>
       <details>
-        <summary><b>C:\Users\Gustavo&gt; ping contacto -n 1</b></summary><img src="./assets/output-contacto.svg" width="460" alt="Contacto" /></details>
+        <summary><b>C:\Users\Gustavo&gt; ping contacto -n 1</b></summary><img src="./assets/output-contacto.svg" width="460" alt="Contacto" style="display:block; margin:0; padding:0;" /></details>
     </td>
     <td width="320" valign="top" align="center">
       <a href="https://ueb-y2k.netlify.app" target="_blank">
@@ -48,18 +48,15 @@
 
 ---
 
-<table border="0" width="100%">
-  <tr>
-    <td valign="top" align="left">
-      <h3>Contáctame:</h3>
-      <a href="mailto:gustavodev.teams@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/white" width="30" alt="Email" /></a> &nbsp;
-      <a href="https://www.linkedin.com/in/gusdeveloper" target="_blank"><img src="./assets/linkedin.svg" width="30" alt="LinkedIn" /></a> &nbsp;
-      <a href="https://x.com/muted_wakeup" target="_blank"><img src="https://cdn.simpleicons.org/x/white" width="30" alt="X (Twitter)" /></a> &nbsp;
-      <a href="https://wa.me/573137148566" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/white" width="30" alt="WhatsApp" /></a>
-    </td>
-    <td valign="top" align="right">
-      <h3>Apoya mis proyectos de código abierto:</h3>
-      <a href="https://ko-fi.com/muteada" target="_blank"><img src="https://cdn.simpleicons.org/kofi/FF5E5B" width="30" alt="Ko-fi" /></a>
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <sub>Apoya mis proyectos de código abierto:</sub> &nbsp;
+  <a href="https://ko-fi.com/muteada" target="_blank"><img src="https://cdn.simpleicons.org/kofi/FF5E5B" width="30" valign="middle" alt="Ko-fi" /></a>
+</p>
+
+### Contáctame:
+<div align="left">
+  <a href="mailto:gustavodev.teams@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/white" width="30" alt="Email" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/gusdeveloper" target="_blank"><img src="./assets/linkedin.svg" width="30" alt="LinkedIn" /></a> &nbsp;
+  <a href="https://x.com/muted_wakeup" target="_blank"><img src="https://cdn.simpleicons.org/x/white" width="30" alt="X (Twitter)" /></a> &nbsp;
+  <a href="https://wa.me/573137148566" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/white" width="30" alt="WhatsApp" /></a>
+</div>
