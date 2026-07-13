@@ -15,13 +15,10 @@
       </pre>
       <details>
         <summary><b>C:\Users\Gustavo&gt; cat sobre-mi.txt</b> <img src="./assets/blanca.png" width="42" valign="middle" alt="Click" /></summary>
-        <br/>
         <img src="./assets/output-sobre-mi.svg" width="460" alt="Sobre mi" />
-        <br/><br/>
       </details>
       <details>
         <summary><b>C:\Users\Gustavo&gt; dir proyectos\</b></summary>
-        <br/>
         <div align="center">
           <a href="https://portafolio-tan-five-55.vercel.app/" target="_blank">
             <img src="./assets/gato.png" width="220" alt="Gato Portafolio" />
@@ -29,20 +26,18 @@
             <sub>Visita mi portafolio (¡Haz clic en el gato!) <img src="./assets/blanca.png" width="24" valign="middle" alt="Click" /></sub>
           </a>
         </div>
-        <br/><br/>
       </details>
       <details>
         <summary><b>C:\Users\Gustavo&gt; ping contacto -n 1</b></summary>
-        <br/>
         <img src="./assets/output-contacto.svg" width="460" alt="Contacto" />
-        <br/><br/>
       </details>
     </td>
-    <td width="320" valign="top" align="right">
-      <br/><br/>
+    <td width="320" valign="top" align="center">
       <a href="https://ueb-y2k.netlify.app" target="_blank">
         <img src="./assets/descarga.png" width="300" alt="Character" />
       </a>
+      <br/>
+      <sub>Visita mi web Y2K (¡Haz clic!) <img src="./assets/blanca.png" width="24" valign="middle" alt="Click" /></sub>
     </td>
   </tr>
 </table>
