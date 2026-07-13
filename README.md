@@ -1,8 +1,8 @@
-<img align="right" src="./assets/descarga.png" width="180" alt="Character" />
+<img align="right" src="./assets/descarga.png" width="240" alt="Character" />
 
 <div align="left">
   <!-- Texto animado que va cambiando -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=22&pause=1000&color=FF66CC&center=false&vCenter=true&width=450&lines=Welcome+to+the+Wired...;%3E+_system_booting...;Full-Stack+Developer;Y2K+%26+Retro-Futurism+Vibes;Cali%2C+Colombia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=22&pause=1000&color=FF66CC&center=false&vCenter=true&width=450&lines=%3E_system_booting...;%3E_system_booting..;%3E_system_booting.;%3E_system_booting;Bienvenido;Full+Stack+Dev;Cali%2C+Colombia;Me+gusta+el+caf%C3%A9" alt="Typing SVG" />
 </div>
 
 <br clear="all" />
