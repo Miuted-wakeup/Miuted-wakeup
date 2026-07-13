@@ -1,13 +1,11 @@
-<div align="center">
+<img align="right" src="./assets/descarga.png" width="180" alt="Character" />
+
+<div align="left">
   <!-- Texto animado que va cambiando -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=22&pause=1000&color=FF66CC&center=true&vCenter=true&width=600&lines=Welcome+to+the+Wired...;%3E+_system_booting...;Full-Stack+Developer;Y2K+%26+Retro-Futurism+Vibes;Cali%2C+Colombia" alt="Typing SVG" />
-  <br/>
-  <i>"Amo Japón, espero ir algún día 🌸"</i>
-  <br/><br/>
-  
-  <!-- Personaje de anime (Ángel) alineado justo antes de la línea divisoria -->
-  <img src="./assets/penege.png" width="500" alt="Anime Angel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=22&pause=1000&color=FF66CC&center=false&vCenter=true&width=450&lines=Welcome+to+the+Wired...;%3E+_system_booting...;Full-Stack+Developer;Y2K+%26+Retro-Futurism+Vibes;Cali%2C+Colombia" alt="Typing SVG" />
 </div>
+
+<br clear="all" />
 
 
 ---
