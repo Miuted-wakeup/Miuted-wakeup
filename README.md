@@ -16,7 +16,7 @@
 <img align="right" src="./assets/descarga.png" width="380" alt="Character" style="margin-left: 20px;" />
 
 <details>
-  <summary><b>C:\Users\Gustavo&gt; cat sobre-mi.txt</b> <img src="./assets/R.png" width="22" valign="middle" alt="Click" /></summary>
+  <summary><b>C:\Users\Gustavo&gt; cat sobre-mi.txt</b> <img src="./assets/blanca.png" width="22" valign="middle" alt="Click" /></summary>
   <br/>
   <img src="./assets/output-sobre-mi.svg" alt="Sobre mi" />
   <br/><br/>
