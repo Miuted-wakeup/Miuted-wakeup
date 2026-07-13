@@ -19,13 +19,11 @@
       </details>
       <details>
         <summary><b>C:\Users\Gustavo&gt; dir proyectos\</b></summary>
-        <div align="center">
-          <a href="https://portafolio-tan-five-55.vercel.app/" target="_blank">
-            <img src="./assets/gato.png" width="220" alt="Gato Portafolio" />
-            <br/>
-            <sub>Visita mi portafolio (¡Haz clic en el gato!) <img src="./assets/blanca.png" width="24" valign="middle" alt="Click" /></sub>
-          </a>
-        </div>
+        <a href="https://portafolio-tan-five-55.vercel.app/" target="_blank">
+          <img src="./assets/gato.png" width="180" alt="Gato Portafolio" />
+        </a>
+        <br/>
+        <sub>Visita mi portafolio (¡Haz clic en el gato!) <img src="./assets/blanca.png" width="24" valign="middle" alt="Click" /></sub>
       </details>
       <details>
         <summary><b>C:\Users\Gustavo&gt; ping contacto -n 1</b></summary>
