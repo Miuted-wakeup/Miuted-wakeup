@@ -48,15 +48,11 @@
 
 ---
 
-<p align="right">
-  <sub>Apoya mis proyectos de código abierto:</sub> &nbsp;
-  <a href="https://ko-fi.com/muteada" target="_blank"><img src="https://cdn.simpleicons.org/kofi/FF5E5B" width="30" valign="middle" alt="Ko-fi" /></a>
-</p>
-
 ### Contáctame:
-<div align="left">
+<p>
+  <a href="https://ko-fi.com/muteada" target="_blank"><img align="right" src="./assets/kofi-support.svg" width="355" alt="Ko-fi" /></a>
   <a href="mailto:gustavodev.teams@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/white" width="30" alt="Email" /></a> &nbsp;
   <a href="https://www.linkedin.com/in/gusdeveloper" target="_blank"><img src="./assets/linkedin.svg" width="30" alt="LinkedIn" /></a> &nbsp;
   <a href="https://x.com/muted_wakeup" target="_blank"><img src="https://cdn.simpleicons.org/x/white" width="30" alt="X (Twitter)" /></a> &nbsp;
   <a href="https://wa.me/573137148566" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/white" width="30" alt="WhatsApp" /></a>
-</div>
+</p>
