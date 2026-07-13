@@ -10,14 +10,31 @@
 
 ---
 
-### Sobre mí
-- Actualmente trabajando en **experiencias web interactivas 3D** y sistemas complejos.
-- Aprendiendo y mejorando en **WebGL y arquitecturas de alto rendimiento**.
-- Creando la web del futuro inspirada en la **estética del pasado (Y2K / Cyberpunk)**.
-- Pregúntame sobre **Anime, Pixel Art y Desarrollo Web**.
-- Conoce mi trabajo en: **[Mi Portafolio Web](https://portafolio-tan-five-55.vercel.app/)**
+<pre>
+<b>Microsoft Windows [Versión 10.0.22631]</b>
+(c) Microsoft Corporation. Todos los derechos reservados.
+</pre>
 
----
+<details>
+  <summary><b>C:\Users\Gustavo&gt; cat sobre-mi.txt</b></summary>
+  <br/>
+  <img src="./assets/output-sobre-mi.svg" alt="Sobre mi" />
+  <br/><br/>
+</details>
+
+<details>
+  <summary><b>C:\Users\Gustavo&gt; dir proyectos\</b></summary>
+  <br/>
+  <img src="./assets/output-proyectos.svg" alt="Proyectos" />
+  <br/><br/>
+</details>
+
+<details>
+  <summary><b>C:\Users\Gustavo&gt; ping contacto -n 1</b></summary>
+  <br/>
+  <img src="./assets/output-contacto.svg" alt="Contacto" />
+  <br/><br/>
+</details>
 
 ### Tech Stack
 <div align="center">

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 90" width="650" height="90">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="terminal-output">
+      <div class="line l1"> Pinging contacto.sys with 32 bytes of data:</div>
+      <br/>
+      <div class="line l2"> Reply from gustavodev.teams@gmail.com: time=1ms</div>
+      <div class="line l3"> Reply from linkedin.com/in/gusdeveloper: time=1ms</div>
+      <div class="line l4"> Reply from x.com/muted_wakeup: time=1ms</div>
+    </div>
+    <style xmlns="http://www.w3.org/1999/xhtml">
+      .terminal-output {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 14px;
+        color: #CCCCCC;
+        background: transparent;
+        line-height: 1.2;
+      }
+      .line {
+        white-space: nowrap;
+        overflow: hidden;
+        width: 0;
+      }
+      .l1 {
+        animation: type-l1 0.9s steps(44) forwards;
+        animation-delay: 0.1s;
+      }
+      .l2 {
+        animation: type-l2 1s steps(47) forwards;
+        animation-delay: 1.0s;
+      }
+      .l3 {
+        animation: type-l3 1.1s steps(49) forwards;
+        animation-delay: 2.0s;
+      }
+      .l4 {
+        animation: type-l4 0.9s steps(38) forwards;
+        animation-delay: 3.1s;
+      }
+      @keyframes type-l1 {
+        from { width: 0; }
+        to { width: 44ch; }
+      }
+      @keyframes type-l2 {
+        from { width: 0; }
+        to { width: 47ch; }
+      }
+      @keyframes type-l3 {
+        from { width: 0; }
+        to { width: 49ch; }
+      }
+      @keyframes type-l4 {
+        from { width: 0; }
+        to { width: 38ch; }
+      }
+    </style>
+  </foreignObject>
+</svg>

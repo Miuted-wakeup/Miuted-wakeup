@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 50" width="650" height="50">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="terminal-output">
+      <div class="line l1">> VIBE: Estética Y2K, WebGL, Cyberpunk y Pixel Art.</div>
+      <div class="line l2">> MISSION: Creando experiencias web 3D e interfaces nostálgicas.</div>
+    </div>
+    <style xmlns="http://www.w3.org/1999/xhtml">
+      .terminal-output {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 14px;
+        color: #CCCCCC;
+        background: transparent;
+        line-height: 1.5;
+      }
+      .line {
+        white-space: nowrap;
+        overflow: hidden;
+        width: 0;
+      }
+      .l1 {
+        animation: type-l1 1.2s steps(52) forwards;
+        animation-delay: 0.2s;
+      }
+      .l2 {
+        animation: type-l2 1.5s steps(63) forwards;
+        animation-delay: 1.4s;
+      }
+      @keyframes type-l1 {
+        from { width: 0; }
+        to { width: 52ch; }
+      }
+      @keyframes type-l2 {
+        from { width: 0; }
+        to { width: 63ch; }
+      }
+    </style>
+  </foreignObject>
+</svg>
