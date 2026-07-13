@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner estilo Anime Retro / Y2K -->
-  <img src="https://i.pinimg.com/originals/11/04/e9/1104e9c7048705f14eaf65392d4f29df.gif" width="100%" alt="Retro Anime Banner" />
+  <!-- Banner estilo Anime Retro / Y2K sacado de tus proyectos -->
+  <img src="./assets/banner.gif" width="100%" alt="Retro Anime Banner" />
 </div>
 
 <br/>
@@ -13,7 +13,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.tenor.com/K1Lg0J5T2kIAAAAi/pixel-heart.gif" width="60" />
+  <!-- Pequeño gif de tu carpeta de y2k -->
+  <img src="./assets/cat.gif" width="100" />
 </div>
 
 <br/>
@@ -26,8 +27,8 @@
 <table align="center" style="border-collapse: collapse; border: 1px solid #444;">
   <tr>
     <td width="300" align="center" style="padding: 10px; border-right: 1px dashed #444;">
-      <!-- GIF Decorativo de anime retro / Evangelion / Lain vibes -->
-      <img src="https://i.pinimg.com/originals/0f/c0/c5/0fc0c50ceb1c55bc6f827aef52924a41.gif" width="100%" style="border-radius: 8px;" />
+      <!-- GIF Decorativo que tenias en tu PC -->
+      <img src="./assets/madoka.gif" width="100%" style="border-radius: 8px;" />
     </td>
     <td width="500" style="padding: 20px;">
       <p><b>[ LOADING DATA... ] 💿</b></p>
@@ -36,6 +37,11 @@
       <p><b>> CURRENT_MISSION:</b> Creando experiencias web 3D e interfaces nostálgicas.</p>
       <p><b>> LORE:</b> "Amo Japón, espero ir algún día 🌸"</p>
       <p><b>> PORTFOLIO:</b> <a href="https://portafolio-tan-five-55.vercel.app">Mi sitio web oficial</a></p>
+      <br/>
+      <div align="center">
+        <!-- El logo que hiciste para tu portafolio -->
+        <img src="./assets/logo.png" width="64" />
+      </div>
     </td>
   </tr>
 </table>
@@ -66,12 +72,8 @@
 ### ╰━━━━━━━━━━━━━━━ ✩ ━━━━━━━━━━━━━━━╯
 
 <div align="center">
-  <!-- Tema 'synthwave' (Neon/Oscuro Y2K) y quitamos la primera tarjeta que estaba dando error -->
+  <!-- Tema 'synthwave' (Neon/Oscuro Y2K) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miuted-wakeup&theme=synthwave&hide_border=false&border_radius=0&background=000000" alt="GitHub Streak" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://media.tenor.com/2YcW8kXm5R0AAAAi/pixel-art.gif" width="120" />
-</div>
