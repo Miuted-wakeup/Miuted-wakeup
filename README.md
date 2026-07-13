@@ -1,12 +1,10 @@
 <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=22&pause=1000&color=FF66CC&center=true&vCenter=true&width=600&lines=Welcome+to+the+Wired...;%3E+_system_booting...;Full-Stack+Developer;Y2K+%26+Retro-Futurism+Vibes;Cali%2C+Colombia" alt="Typing SVG" />
   <!-- Tu personaje de anime principal -->
   <img src="./assets/character.png" width="300" alt="Anime Character" />
   <br/><br/>
-  
-  <!-- Texto animado que va cambiando -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=22&pause=1000&color=FF66CC&center=true&vCenter=true&width=600&lines=Welcome+to+the+Wired...;%3E+_system_booting...;Full-Stack+Developer;Y2K+%26+Retro-Futurism+Vibes;Cali%2C+Colombia" alt="Typing SVG" />
+
   <br/>
-  <i>"Amo Japón, espero ir algún día 🌸"</i>
 </div>
 
 
