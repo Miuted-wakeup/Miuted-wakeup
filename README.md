@@ -1,6 +1,6 @@
-<div align="left">
-  <!-- Texto animado personalizado que va cambiando (un poco más grande ahora que tiene espacio) -->
-  <img src="./assets/typing.svg" width="350" alt="Typing SVG" />
+<div align="center">
+  <!-- Texto animado personalizado que va cambiando (centrado y un poco más grande) -->
+  <img src="./assets/typing.svg" width="380" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -38,6 +38,18 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <br/>
+  <a href="https://portafolio-tan-five-55.vercel.app/" target="_blank">
+    <img src="./assets/gato.png" width="90" alt="Gato Portafolio" />
+    <br/>
+    <sub>Visita mi portafolio (¡Haz clic en el gato!) <img src="./assets/blanca.png" width="24" valign="middle" alt="Click" /></sub>
+  </a>
+  <br/><br/>
+</div>
+
+---
 
 ### Tech Stack
 <div align="center">
