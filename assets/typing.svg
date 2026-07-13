@@ -109,99 +109,98 @@
         16%, 100% { opacity: 1; }
       }
 
-      /* Pasos manuales de máquina de escribir */
+      /* Pasos discretos (typewriter real) */
       @keyframes type1-anim {
-        0% { width: 0; }
-        2.0% { width: 0; }
-        2.5% { width: 1ch; }
-        3.0% { width: 2ch; }
-        3.5% { width: 3ch; }
-        4.0% { width: 4ch; }
-        4.5% { width: 5ch; }
-        5.0% { width: 6ch; }
-        5.5% { width: 7ch; }
-        6.0% { width: 8ch; }
-        6.5% { width: 9ch; }
-        7.0% { width: 10ch; }
-        7.5% { width: 11ch; }
-        8.0% { width: 12ch; }
-        8.5% { width: 13ch; }
-        9.0% { width: 14ch; }
-        9.5% { width: 15ch; }
+        0%, 2.49% { width: 0; }
+        2.5%, 2.99% { width: 1ch; }
+        3.0%, 3.49% { width: 2ch; }
+        3.5%, 3.99% { width: 3ch; }
+        4.0%, 4.49% { width: 4ch; }
+        4.5%, 4.99% { width: 5ch; }
+        5.0%, 5.49% { width: 6ch; }
+        5.5%, 5.99% { width: 7ch; }
+        6.0%, 6.49% { width: 8ch; }
+        6.5%, 6.99% { width: 9ch; }
+        7.0%, 7.49% { width: 10ch; }
+        7.5%, 7.99% { width: 11ch; }
+        8.0%, 8.49% { width: 12ch; }
+        8.5%, 8.99% { width: 13ch; }
+        9.0%, 9.49% { width: 14ch; }
+        9.5%, 9.99% { width: 15ch; }
         10.0%, 20% { width: 16ch; }
         20.1%, 100% { width: 0; }
       }
 
       @keyframes type2-anim {
-        0%, 22% { width: 0; }
-        22.8% { width: 1ch; }
-        23.6% { width: 2ch; }
-        24.4% { width: 3ch; }
-        25.2% { width: 4ch; }
-        26.0% { width: 5ch; }
-        26.8% { width: 6ch; }
-        27.6% { width: 7ch; }
-        28.4% { width: 8ch; }
-        29.2% { width: 9ch; }
+        0%, 22.79% { width: 0; }
+        22.8%, 23.59% { width: 1ch; }
+        23.6%, 24.39% { width: 2ch; }
+        24.4%, 25.19% { width: 3ch; }
+        25.2%, 25.99% { width: 4ch; }
+        26.0%, 26.79% { width: 5ch; }
+        26.8%, 27.59% { width: 6ch; }
+        27.6%, 28.39% { width: 7ch; }
+        28.4%, 29.19% { width: 8ch; }
+        29.2%, 29.99% { width: 9ch; }
         30.0%, 40% { width: 10ch; }
         40.1%, 100% { width: 0; }
       }
 
       @keyframes type3-anim {
-        0%, 42% { width: 0; }
-        42.6% { width: 1ch; }
-        43.2% { width: 2ch; }
-        43.8% { width: 3ch; }
-        44.4% { width: 4ch; }
-        45.0% { width: 5ch; }
-        45.6% { width: 6ch; }
-        46.2% { width: 7ch; }
-        46.8% { width: 8ch; }
-        47.4% { width: 9ch; }
-        48.0% { width: 10ch; }
-        48.6% { width: 11ch; }
-        49.2% { width: 12ch; }
-        49.8% { width: 13ch; }
-        50.0%, 60% { width: 14ch; }
+        0%, 42.59% { width: 0; }
+        42.6%, 43.19% { width: 1ch; }
+        43.2%, 43.79% { width: 2ch; }
+        43.8%, 44.39% { width: 3ch; }
+        44.4%, 44.99% { width: 4ch; }
+        45.0%, 45.59% { width: 5ch; }
+        45.6%, 46.19% { width: 6ch; }
+        46.2%, 46.79% { width: 7ch; }
+        46.8%, 47.39% { width: 8ch; }
+        47.4%, 47.99% { width: 9ch; }
+        48.0%, 48.59% { width: 10ch; }
+        48.6%, 49.19% { width: 11ch; }
+        49.2%, 49.79% { width: 12ch; }
+        49.8%, 50.39% { width: 13ch; }
+        50.4%, 60% { width: 14ch; }
         60.1%, 100% { width: 0; }
       }
 
       @keyframes type4-anim {
-        0%, 62% { width: 0; }
-        62.6% { width: 1ch; }
-        63.2% { width: 2ch; }
-        63.8% { width: 3ch; }
-        64.4% { width: 4ch; }
-        65.0% { width: 5ch; }
-        65.6% { width: 6ch; }
-        66.2% { width: 7ch; }
-        66.8% { width: 8ch; }
-        67.4% { width: 9ch; }
-        68.0% { width: 10ch; }
-        68.6% { width: 11ch; }
-        69.2% { width: 12ch; }
-        69.8% { width: 13ch; }
-        70.0%, 80% { width: 14ch; }
+        0%, 62.59% { width: 0; }
+        62.6%, 63.19% { width: 1ch; }
+        63.2%, 63.79% { width: 2ch; }
+        63.8%, 64.39% { width: 3ch; }
+        64.4%, 64.99% { width: 4ch; }
+        65.0%, 65.59% { width: 5ch; }
+        65.6%, 66.19% { width: 6ch; }
+        66.2%, 66.79% { width: 7ch; }
+        66.8%, 67.39% { width: 8ch; }
+        67.4%, 67.99% { width: 9ch; }
+        68.0%, 68.59% { width: 10ch; }
+        68.6%, 69.19% { width: 11ch; }
+        69.2%, 69.79% { width: 12ch; }
+        69.8%, 70.39% { width: 13ch; }
+        70.4%, 80% { width: 14ch; }
         80.1%, 100% { width: 0; }
       }
 
       @keyframes type5-anim {
-        0%, 82% { width: 0; }
-        82.5% { width: 1ch; }
-        83.0% { width: 2ch; }
-        83.5% { width: 3ch; }
-        84.0% { width: 4ch; }
-        84.5% { width: 5ch; }
-        85.0% { width: 6ch; }
-        85.5% { width: 7ch; }
-        86.0% { width: 8ch; }
-        86.5% { width: 9ch; }
-        87.0% { width: 10ch; }
-        87.5% { width: 11ch; }
-        88.0% { width: 12ch; }
-        88.5% { width: 13ch; }
-        89.0% { width: 14ch; }
-        89.5% { width: 15ch; }
+        0%, 82.49% { width: 0; }
+        82.5%, 82.99% { width: 1ch; }
+        83.0%, 83.49% { width: 2ch; }
+        83.5%, 83.99% { width: 3ch; }
+        84.0%, 84.49% { width: 4ch; }
+        84.5%, 84.99% { width: 5ch; }
+        85.0%, 85.49% { width: 6ch; }
+        85.5%, 85.99% { width: 7ch; }
+        86.0%, 86.49% { width: 8ch; }
+        86.5%, 86.99% { width: 9ch; }
+        87.0%, 87.49% { width: 10ch; }
+        87.5%, 87.99% { width: 11ch; }
+        88.0%, 88.49% { width: 12ch; }
+        88.5%, 88.99% { width: 13ch; }
+        89.0%, 89.49% { width: 14ch; }
+        89.5%, 89.99% { width: 15ch; }
         90.0%, 100% { width: 16ch; }
       }
     </style>
