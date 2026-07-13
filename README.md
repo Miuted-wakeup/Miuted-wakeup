@@ -1,8 +1,8 @@
-<img align="right" src="./assets/descarga.png" width="440" alt="Character" />
+<img align="right" src="./assets/descarga.png" width="400" alt="Character" />
 
 <div align="left">
-  <!-- Texto animado personalizado que va cambiando -->
-  <img src="./assets/typing.svg" alt="Typing SVG" />
+  <!-- Texto animado personalizado que va cambiando (con ancho limitado para que no salte de línea) -->
+  <img src="./assets/typing.svg" width="280" alt="Typing SVG" />
 </div>
 
 <br clear="all" />
