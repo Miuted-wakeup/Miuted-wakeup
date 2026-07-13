@@ -6,37 +6,38 @@
 <br/>
 
 ---
-
-<pre>
+<table border="0" align="center">
+  <tr>
+    <td width="480" valign="top">
+      <pre>
 <b>Microsoft Windows [Versión 10.0.22631]</b>
 (c) Microsoft Corporation. Todos los derechos reservados.
-</pre>
-
-<!-- Personaje flotado a la derecha de la terminal -->
-<img align="right" src="./assets/descarga.png" width="380" alt="Character" style="margin-left: 20px;" />
-
-<details>
-  <summary><b>C:\Users\Gustavo&gt; cat sobre-mi.txt</b> <img src="./assets/blanca.png" width="22" valign="middle" alt="Click" /></summary>
-  <br/>
-  <img src="./assets/output-sobre-mi.svg" alt="Sobre mi" />
-  <br/><br/>
-</details>
-
-<details>
-  <summary><b>C:\Users\Gustavo&gt; dir proyectos\</b></summary>
-  <br/>
-  <img src="./assets/output-proyectos.svg" alt="Proyectos" />
-  <br/><br/>
-</details>
-
-<details>
-  <summary><b>C:\Users\Gustavo&gt; ping contacto -n 1</b></summary>
-  <br/>
-  <img src="./assets/output-contacto.svg" alt="Contacto" />
-  <br/><br/>
-</details>
-
-<br clear="all" />
+      </pre>
+      <details>
+        <summary><b>C:\Users\Gustavo&gt; cat sobre-mi.txt</b> <img src="./assets/blanca.png" width="42" valign="middle" alt="Click" /></summary>
+        <br/>
+        <img src="./assets/output-sobre-mi.svg" width="460" alt="Sobre mi" />
+        <br/><br/>
+      </details>
+      <details>
+        <summary><b>C:\Users\Gustavo&gt; dir proyectos\</b></summary>
+        <br/>
+        <img src="./assets/output-proyectos.svg" width="460" alt="Proyectos" />
+        <br/><br/>
+      </details>
+      <details>
+        <summary><b>C:\Users\Gustavo&gt; ping contacto -n 1</b></summary>
+        <br/>
+        <img src="./assets/output-contacto.svg" width="460" alt="Contacto" />
+        <br/><br/>
+      </details>
+    </td>
+    <td width="320" valign="top" align="right">
+      <br/><br/>
+      <img src="./assets/descarga.png" width="300" alt="Character" />
+    </td>
+  </tr>
+</table>
 
 ### Tech Stack
 <div align="center">
@@ -56,7 +57,7 @@
 ---
 
 ### Contáctame:
-<div align="center">
+<div align="left">
   <a href="mailto:gustavodev.teams@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/white" width="30" alt="Email" /></a> &nbsp;
   <a href="https://www.linkedin.com/in/gusdeveloper" target="_blank"><img src="./assets/linkedin.svg" width="30" alt="LinkedIn" /></a> &nbsp;
   <a href="https://x.com/muted_wakeup" target="_blank"><img src="https://cdn.simpleicons.org/x/white" width="30" alt="X (Twitter)" /></a> &nbsp;
