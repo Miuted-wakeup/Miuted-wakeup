@@ -14,21 +14,11 @@
 (c) Microsoft Corporation. Todos los derechos reservados.
       </pre>
       <details>
-        <summary><b>C:\Users\Gustavo&gt; cat sobre-mi.txt</b> <img src="./assets/blanca.png" width="42" valign="middle" alt="Click" /></summary>
-        <img src="./assets/output-sobre-mi.svg" width="460" alt="Sobre mi" />
-      </details>
+        <summary><b>C:\Users\Gustavo&gt; cat sobre-mi.txt</b> <img src="./assets/blanca.png" width="42" valign="middle" alt="Click" /></summary><img src="./assets/output-sobre-mi.svg" width="460" alt="Sobre mi" /></details>
       <details>
-        <summary><b>C:\Users\Gustavo&gt; dir proyectos\</b></summary>
-        <a href="https://portafolio-tan-five-55.vercel.app/" target="_blank">
-          <img src="./assets/gato.png" width="180" alt="Gato Portafolio" />
-        </a>
-        <br/>
-        <sub>Visita mi portafolio (¡Haz clic en el gato!) <img src="./assets/blanca.png" width="24" valign="middle" alt="Click" /></sub>
-      </details>
+        <summary><b>C:\Users\Gustavo&gt; dir proyectos\</b></summary><a href="https://portafolio-tan-five-55.vercel.app/" target="_blank"><img src="./assets/gato.png" width="180" alt="Gato Portafolio" /></a><br/><sub>Visita mi portafolio (¡Haz clic en el gato!) <img src="./assets/blanca.png" width="24" valign="middle" alt="Click" /></sub></details>
       <details>
-        <summary><b>C:\Users\Gustavo&gt; ping contacto -n 1</b></summary>
-        <img src="./assets/output-contacto.svg" width="460" alt="Contacto" />
-      </details>
+        <summary><b>C:\Users\Gustavo&gt; ping contacto -n 1</b></summary><img src="./assets/output-contacto.svg" width="460" alt="Contacto" /></details>
     </td>
     <td width="320" valign="top" align="center">
       <a href="https://ueb-y2k.netlify.app" target="_blank">
@@ -69,9 +59,7 @@
     </td>
     <td valign="top" align="right">
       <h3>Apoya mis proyectos de código abierto:</h3>
-      <a href="https://ko-fi.com/muteada" target="_blank">
-        <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-      </a>
+      <a href="https://ko-fi.com/muteada" target="_blank"><img src="https://cdn.simpleicons.org/kofi/FF5E5B" width="30" alt="Ko-fi" /></a>
     </td>
   </tr>
 </table>
