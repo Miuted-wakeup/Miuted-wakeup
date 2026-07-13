@@ -58,11 +58,20 @@
 
 ---
 
-### Contáctame (¡o apoya mis proyectos de código abierto!):
-<div align="left">
-  <a href="mailto:gustavodev.teams@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/white" width="30" alt="Email" /></a> &nbsp;
-  <a href="https://www.linkedin.com/in/gusdeveloper" target="_blank"><img src="./assets/linkedin.svg" width="30" alt="LinkedIn" /></a> &nbsp;
-  <a href="https://x.com/muted_wakeup" target="_blank"><img src="https://cdn.simpleicons.org/x/white" width="30" alt="X (Twitter)" /></a> &nbsp;
-  <a href="https://wa.me/573137148566" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/white" width="30" alt="WhatsApp" /></a> &nbsp;
-  <a href="https://ko-fi.com/muteada" target="_blank"><img src="https://cdn.simpleicons.org/kofi/FF5E5B" width="30" alt="Ko-fi" /></a>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td valign="top" align="left">
+      <h3>Contáctame:</h3>
+      <a href="mailto:gustavodev.teams@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/white" width="30" alt="Email" /></a> &nbsp;
+      <a href="https://www.linkedin.com/in/gusdeveloper" target="_blank"><img src="./assets/linkedin.svg" width="30" alt="LinkedIn" /></a> &nbsp;
+      <a href="https://x.com/muted_wakeup" target="_blank"><img src="https://cdn.simpleicons.org/x/white" width="30" alt="X (Twitter)" /></a> &nbsp;
+      <a href="https://wa.me/573137148566" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/white" width="30" alt="WhatsApp" /></a>
+    </td>
+    <td valign="top" align="right">
+      <h3>Apoya mis proyectos de código abierto:</h3>
+      <a href="https://ko-fi.com/muteada" target="_blank">
+        <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+      </a>
+    </td>
+  </tr>
+</table>
