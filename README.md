@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Banner estilo Anime Retro / Y2K sacado de tus proyectos -->
-  <img src="./assets/banner.gif" width="100%" alt="Retro Anime Banner" />
+  <img src="./assets/banner.gif" width="300" alt="Retro Anime Banner" />
 </div>
 
 <br/>
@@ -26,9 +25,9 @@
 <!-- Usamos una tabla HTML para simular un pop-up o ventana antigua con imagen a la izquierda y texto a la derecha -->
 <table align="center" style="border-collapse: collapse; border: 1px solid #444;">
   <tr>
-    <td width="300" align="center" style="padding: 10px; border-right: 1px dashed #444;">
+    <td width="200" align="center" style="padding: 10px; border-right: 1px dashed #444;">
       <!-- GIF Decorativo que tenias en tu PC -->
-      <img src="./assets/madoka.gif" width="100%" style="border-radius: 8px;" />
+      <img src="./assets/madoka.gif" width="150" style="border-radius: 8px;" />
     </td>
     <td width="500" style="padding: 20px;">
       <p><b>[ LOADING DATA... ] 💿</b></p>
