@@ -1,8 +1,8 @@
-<img align="right" src="./assets/descarga.png" width="240" alt="Character" />
+<img align="right" src="./assets/descarga.png" width="440" alt="Character" />
 
 <div align="left">
-  <!-- Texto animado que va cambiando -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=22&pause=1000&color=FF66CC&center=false&vCenter=true&width=450&lines=%3E_system_booting...;%3E_system_booting..;%3E_system_booting.;%3E_system_booting;Bienvenido;Full+Stack+Dev;Cali%2C+Colombia;Me+gusta+el+caf%C3%A9" alt="Typing SVG" />
+  <!-- Texto animado personalizado que va cambiando -->
+  <img src="./assets/typing.svg" alt="Typing SVG" />
 </div>
 
 <br clear="all" />
